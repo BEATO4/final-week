@@ -7,6 +7,14 @@
         "discoveredTimestamp": 1735788716944,
         "caughtTimestamp": 1735788716944
       }
+    },
+    "froakie": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1735954687273,
+        "caughtTimestamp": 1735954687273
+      }
     }
   }
 }
