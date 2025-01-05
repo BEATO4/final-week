@@ -16,6 +16,22 @@
             "discoveredTimestamp": 1735957942019,
             "caughtTimestamp": 1735957942019
           }
+        },
+        "lopunny": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736106624212,
+            "caughtTimestamp": 1736106624212
+          }
+        },
+        "dartrix": {
+          "hisuibias": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736106749790,
+            "caughtTimestamp": 1736106749790
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -26,16 +42,18 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 1,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 3,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 4,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 3,
+    "totalPvWBattleVictoryCount": 4,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
+    "totalTypeCaptureCounts": {
+      "normal": 1
+    },
     "totalDefeatedCounts": {
       "cobblemon:petilil": 1,
       "cobblemon:patrat": 1,

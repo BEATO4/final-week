@@ -1,43 +1,13 @@
 {
-  "cobblemon:any_plant": {
-    "criteria": {
-      "check_inv": "2025-01-04 02:40:18 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-01-04 02:31:19 +0000"
     },
     "done": true
   },
-  "cobblemon:obtain_berry": {
-    "criteria": {
-      "check_inv": "2025-01-04 02:40:18 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2025-01-04 02:47:48 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:immersive_weathering/bark_off": {
-    "criteria": {
-      "wax_off": "2025-01-04 03:21:44 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-01-04 02:31:19 +0000"
-    },
-    "done": true
-  },
-  "create:brass": {
-    "criteria": {
-      "0": "2025-01-04 03:32:21 +0000"
     },
     "done": true
   },
@@ -53,18 +23,6 @@
     },
     "done": true
   },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-04 02:31:21 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-01-04 03:46:29 +0000"
-    },
-    "done": true
-  },
   "cobblepedia:recipes/cobblepedia": {
     "criteria": {
       "has_recipe": "2025-01-04 02:31:19 +0000"
@@ -74,52 +32,6 @@
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-01-04 02:31:19 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-04 04:12:14 +0000"
-    },
-    "done": false
-  },
-  "repurposed_structures:villages": {
-    "criteria": {
-      "in_village_giant_taiga": "2025-01-04 02:50:35 +0000"
-    },
-    "done": false
-  },
-  "create:andesite_alloy": {
-    "criteria": {
-      "0": "2025-01-04 03:33:18 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_all_illager_structures": {
-    "criteria": {
-      "illager_camp": "2025-01-04 02:53:33 +0000"
-    },
-    "done": false
-  },
-  "cobblemon:obtain_all_berries": {
-    "criteria": {
-      "obtain_yache_berry": "2025-01-04 02:52:43 +0000",
-      "obtain_aspear_berry": "2025-01-04 02:49:26 +0000",
-      "obtain_persim_berry": "2025-01-04 02:48:53 +0000",
-      "obtain_razz_berry": "2025-01-04 02:40:18 +0000",
-      "obtain_bluk_berry": "2025-01-04 02:50:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-04 04:12:14 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-01-04 03:16:40 +0000"
     },
     "done": true
   },
@@ -141,23 +53,11 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-04 04:12:14 +0000"
-    },
-    "done": false
-  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-01-04 02:31:19 +0000"
     },
     "done": true
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-04 02:31:21 +0000"
-    },
-    "done": false
   },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
@@ -177,24 +77,6 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_spruce": "2025-01-04 02:47:48 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:craft_base_balls": {
-    "criteria": {
-      "poke_ball": "2025-01-04 03:17:22 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-01-04 02:43:27 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-01-04 02:31:19 +0000"
@@ -207,39 +89,9 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-04 04:12:14 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-01-04 02:43:41 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-01-04 02:31:33 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-04 02:31:19 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-04 04:12:14 +0000"
-    },
-    "done": false
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-01-04 03:16:21 +0000"
     },
     "done": true
   },
@@ -252,12 +104,6 @@
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-01-04 02:31:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "rice": "2025-01-04 02:51:52 +0000"
     },
     "done": true
   },
@@ -280,21 +126,9 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-04 04:12:14 +0000"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-01-04 02:31:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-01-04 02:53:35 +0000"
     },
     "done": true
   },
@@ -304,27 +138,9 @@
     },
     "done": true
   },
-  "repurposed_structures:root": {
-    "criteria": {
-      "always": "2025-01-04 02:31:20 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:igloos": {
-    "criteria": {
-      "in_igloo_grassy": "2025-01-04 03:25:06 +0000"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-01-04 02:31:19 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:root": {
-    "criteria": {
-      "picked_starter": "2025-01-04 02:32:22 +0000"
     },
     "done": true
   },
@@ -334,52 +150,15 @@
     },
     "done": true
   },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-04 02:31:21 +0000"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2025-01-04 02:31:19 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-01-04 03:13:04 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-01-04 02:31:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-01-04 02:33:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:creeper": "2025-01-04 03:35:42 +0000",
-      "minecraft:zombie": "2025-01-04 03:46:58 +0000"
-    },
-    "done": false
-  },
-  "cobblemon:craft_all_balls": {
-    "criteria": {
-      "poke_ball": "2025-01-04 03:17:22 +0000"
-    },
-    "done": false
-  },
-  "cobblemon:harvest_apricorn_seed": {
-    "criteria": {
-      "check_inv": "2025-01-04 02:55:42 +0000"
     },
     "done": true
   },
@@ -413,21 +192,93 @@
     },
     "done": true
   },
-  "cobblemon:craft_poke_ball": {
+  "comforts:hammock_pink": {
     "criteria": {
-      "requirement": "2025-01-04 03:17:22 +0000"
+      "has_the_recipe": "2025-01-04 02:31:19 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "comforts:hammock_brown": {
     "criteria": {
-      "minecraft:creeper": "2025-01-04 03:35:42 +0000"
+      "has_the_recipe": "2025-01-04 02:31:19 +0000"
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "comforts:sleeping_bag_lime": {
     "criteria": {
-      "log_spam_fixer": "2025-01-04 04:12:14 +0000"
+      "has_the_recipe": "2025-01-04 02:31:19 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-01-04 02:31:19 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-01-04 02:31:19 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-01-04 02:31:19 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-01-04 02:31:19 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-01-04 02:31:19 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-01-04 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-01-04 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-01-04 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-01-04 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 02:31:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 02:31:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 02:31:21 +0000"
     },
     "done": false
   },
@@ -447,70 +298,15 @@
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-04 04:12:14 +0000"
-    },
-    "done": false
-  },
-  "comforts:hammock_pink": {
-    "criteria": {
-      "has_the_recipe": "2025-01-04 02:31:19 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_brown": {
-    "criteria": {
-      "has_the_recipe": "2025-01-04 02:31:19 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:immersive_weathering/dirts": {
-    "criteria": {
-      "dirt": "2025-01-04 02:38:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-04 04:12:14 +0000"
-    },
-    "done": false
-  },
-  "comforts:sleeping_bag_lime": {
-    "criteria": {
-      "has_the_recipe": "2025-01-04 02:31:19 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_yellow": {
-    "criteria": {
-      "has_the_recipe": "2025-01-04 02:31:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "sweet_berries": "2025-01-04 02:42:10 +0000",
-      "bread": "2025-01-04 02:42:53 +0000"
-    },
-    "done": false
-  },
-  "cobblemon:harvest_apricorn": {
-    "criteria": {
-      "check_inv": "2025-01-04 02:54:47 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-01-04 02:31:21 +0000"
     },
     "done": false
   },
-  "comforts:sleeping_bag_blue": {
+  "alexsmobs:alexsmobs/root": {
     "criteria": {
-      "has_the_recipe": "2025-01-04 02:31:19 +0000"
+      "useitem": "2025-01-04 02:31:33 +0000"
     },
     "done": true
   },
@@ -520,27 +316,9 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "cobblemon:root": {
     "criteria": {
-      "log_spam_fixer": "2025-01-04 04:12:14 +0000"
-    },
-    "done": false
-  },
-  "toms_storage:unlock_chest": {
-    "criteria": {
-      "inv_changed-chest": "2025-01-04 02:31:19 +0000"
-    },
-    "done": true
-  },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-01-04 02:31:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-01-04 03:39:39 +0000"
+      "picked_starter": "2025-01-04 02:32:22 +0000"
     },
     "done": true
   },
@@ -550,33 +328,110 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-01-04 02:33:01 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2025-01-04 02:38:25 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:any_plant": {
+    "criteria": {
+      "check_inv": "2025-01-04 02:40:18 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_berry": {
+    "criteria": {
+      "check_inv": "2025-01-04 02:40:18 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_all_berries": {
+    "criteria": {
+      "obtain_yache_berry": "2025-01-04 02:52:43 +0000",
+      "obtain_aspear_berry": "2025-01-04 02:49:26 +0000",
+      "obtain_persim_berry": "2025-01-04 02:48:53 +0000",
+      "obtain_razz_berry": "2025-01-04 02:40:18 +0000",
+      "obtain_bluk_berry": "2025-01-04 02:50:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2025-01-04 02:42:10 +0000",
+      "bread": "2025-01-04 02:42:53 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-01-04 02:42:11 +0000"
     },
     "done": false
   },
-  "cataclysm:root": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "custom_test_name": "2025-01-04 02:31:20 +0000"
+      "get_stone": "2025-01-04 02:43:27 +0000"
     },
     "done": true
   },
-  "comforts:sleeping_bag_yellow": {
+  "minecraft:story/upgrade_tools": {
     "criteria": {
-      "has_the_recipe": "2025-01-04 02:31:19 +0000"
+      "stone_pickaxe": "2025-01-04 02:43:41 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "nova_structures:root": {
     "criteria": {
-      "crafting_table": "2025-01-04 03:13:44 +0000"
+      "nova_structures:adventure/find_tavern": "2025-01-04 02:47:48 +0000"
     },
     "done": true
   },
-  "incendium:technical/new_player": {
+  "nova_structures:adventure/find_tavern": {
     "criteria": {
-      "requirement": "2025-01-04 02:31:20 +0000"
+      "nova_structures:tavern_spruce": "2025-01-04 02:47:48 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_giant_taiga": "2025-01-04 02:50:35 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-01-04 02:51:52 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-01-04 02:53:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-04 02:53:35 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:harvest_apricorn": {
+    "criteria": {
+      "check_inv": "2025-01-04 02:54:47 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:harvest_apricorn_seed": {
+    "criteria": {
+      "check_inv": "2025-01-04 02:55:42 +0000"
     },
     "done": true
   },
@@ -586,21 +441,186 @@
     },
     "done": false
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-04 03:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-04 03:13:44 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-01-04 03:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-04 03:16:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_base_balls": {
+    "criteria": {
+      "poke_ball": "2025-01-04 03:17:22 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:craft_all_balls": {
+    "criteria": {
+      "quick_ball": "2025-01-05 19:39:49 +0000",
+      "ultra_ball": "2025-01-05 19:42:07 +0000",
+      "poke_ball": "2025-01-04 03:17:22 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:craft_poke_ball": {
+    "criteria": {
+      "requirement": "2025-01-04 03:17:22 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/bark_off": {
+    "criteria": {
+      "wax_off": "2025-01-04 03:21:44 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-01-04 03:25:06 +0000"
+    },
+    "done": false
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-01-04 03:32:21 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-01-04 03:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2025-01-04 03:35:42 +0000",
+      "minecraft:zombie": "2025-01-04 03:46:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-01-04 03:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-04 03:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-01-04 03:46:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 19:52:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 19:52:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 19:52:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 19:52:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 19:52:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 19:52:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 19:52:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 19:52:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 19:52:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 19:52:41 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-04 04:12:14 +0000"
+      "log_spam_fixer": "2025-01-05 19:52:41 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-04 04:12:14 +0000"
+      "log_spam_fixer": "2025-01-05 19:52:41 +0000"
     },
     "done": false
   },
-  "comforts:hammock_orange": {
+  "cobblemon:first_catch": {
     "criteria": {
-      "has_the_recipe": "2025-01-04 02:31:19 +0000"
+      "catch": "2025-01-05 19:50:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-01-05 19:31:31 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2025-01-05 19:52:29 +0000"
     },
     "done": true
   },

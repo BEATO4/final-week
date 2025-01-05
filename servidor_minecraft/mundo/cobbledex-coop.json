@@ -308,6 +308,36 @@
         "status": "SEEN",
         "discoveredTimestamp": 1736103446845
       }
+    },
+    "growlithe": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1736106396486
+      }
+    },
+    "fidough": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1736106399496
+      }
+    },
+    "lopunny": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1736106624213,
+        "caughtTimestamp": 1736106624213
+      }
+    },
+    "dartrix": {
+      "hisuibias": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1736106749791,
+        "caughtTimestamp": 1736106749791
+      }
     }
   }
 }
