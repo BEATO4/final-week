@@ -9917,3 +9917,64 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [05Jan2025 21:00:47.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 40 [Andesite] to BEAT04]
 [05Jan2025 21:02:48.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 1 [Sand Paper] to BEAT04]
 [05Jan2025 21:04:36.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 20 [Bone] to BEAT04]
+[05Jan2025 21:05:08.989] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[05Jan2025 21:05:08.989] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[05Jan2025 21:07:02.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 10 [Andesite] to BEAT04]
+[05Jan2025 21:08:01.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CactuZzz was slain by Iron Golem
+[05Jan2025 21:08:01.706] [Server thread/INFO] [tombstone/]: The player CactuZzz has successfully been saved
+[05Jan2025 21:08:58.190] [Server thread/INFO] [zeno410.betterforests.BetterForestsMod/]: 0 
+[05Jan2025 21:08:58.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BooLR2103[/100.127.253.66:50689] logged in with entity id 82421 at (105.5, 64.0, -123.5)
+[05Jan2025 21:08:58.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BooLR2103 joined the game
+[05Jan2025 21:08:58.326] [Server thread/INFO] [Cobbledex/]: Added 0 entries in BooLR2103's Cobbledex
+[05Jan2025 21:08:58.327] [Server thread/INFO] [Jade/]: Syncing config to BooLR2103 (10a51b1f-2d52-389d-a760-57fb5b39c099)
+[05Jan2025 21:09:28.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BooLR2103 lost connection: Timed out
+[05Jan2025 21:09:28.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BooLR2103 left the game
+[05Jan2025 21:10:08.990] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[05Jan2025 21:10:08.990] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[05Jan2025 21:10:53.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CactuZzz was slain by Iron Golem
+[05Jan2025 21:10:53.930] [Server thread/INFO] [tombstone/]: The player CactuZzz has successfully been saved
+[05Jan2025 21:13:20.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CactuZzz has made the advancement [Take Aim]
+[05Jan2025 21:13:36.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CactuZzz was slain by Iron Golem
+[05Jan2025 21:13:36.219] [Server thread/INFO] [tombstone/]: The player CactuZzz has successfully been saved
+[05Jan2025 21:13:42.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 1 [Iron Ingot] to BEAT04]
+[05Jan2025 21:13:47.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CactuZzz was slain by Iron Golem
+[05Jan2025 21:13:47.449] [Server thread/INFO] [tombstone/]: The player CactuZzz has successfully been saved
+[05Jan2025 21:13:51.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CactuZzz was slain by Iron Golem
+[05Jan2025 21:13:51.484] [Server thread/INFO] [tombstone/]: The player CactuZzz has successfully been saved
+[05Jan2025 21:15:08.991] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[05Jan2025 21:15:08.991] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[05Jan2025 21:15:18.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CactuZzz was slain by Psyduck
+[05Jan2025 21:15:18.531] [Server thread/INFO] [tombstone/]: The player CactuZzz has successfully been saved
+[05Jan2025 21:20:08.985] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[05Jan2025 21:20:08.985] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[05Jan2025 21:21:01.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 1 [Cobblestone] to BEAT04]
+[05Jan2025 21:21:33.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 1 [Iron Pickaxe] to BEAT04]
+[05Jan2025 21:21:52.334] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/84502, l='ServerLevel[mundo]', x=1897.30, y=71.00, z=94.75] died, message: 'Shepherd was slain by CactuZzz'
+[05Jan2025 21:21:52.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CactuZzz has made the advancement [Neighborhood Brawl]
+[05Jan2025 21:22:07.320] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/84516, l='ServerLevel[mundo]', x=1883.41, y=71.88, z=95.82] died, message: 'Unemployed was slain by CactuZzz'
+[05Jan2025 21:22:12.880] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/84604, l='ServerLevel[mundo]', x=1883.98, y=71.88, z=96.64] died, message: 'Unemployed was slain by CactuZzz'
+[05Jan2025 21:22:40.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CactuZzz> zzzzzzzz
+[05Jan2025 21:24:26.048] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/0254fadf-eb6a-458c-a896-4d8f1a901c4d.json
+[05Jan2025 21:24:26.049] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/0254fadf-eb6a-458c-a896-4d8f1a901c4d.json
+[05Jan2025 21:24:26.051] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/0254fadf-eb6a-458c-a896-4d8f1a901c4d.json
+[05Jan2025 21:24:26.051] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/0254fadf-eb6a-458c-a896-4d8f1a901c4d.json
+[05Jan2025 21:24:26.051] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/0254fadf-eb6a-458c-a896-4d8f1a901c4d.json
+[05Jan2025 21:24:26.053] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/e91249d5-b575-4b43-8911-2f77a5b66cf5.json
+[05Jan2025 21:24:26.053] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/e91249d5-b575-4b43-8911-2f77a5b66cf5.json
+[05Jan2025 21:24:26.054] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/e91249d5-b575-4b43-8911-2f77a5b66cf5.json
+[05Jan2025 21:24:26.054] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/e91249d5-b575-4b43-8911-2f77a5b66cf5.json
+[05Jan2025 21:24:26.055] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/e91249d5-b575-4b43-8911-2f77a5b66cf5.json
+[05Jan2025 21:24:26.055] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/e91249d5-b575-4b43-8911-2f77a5b66cf5.json
+[05Jan2025 21:24:26.056] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/8aefad04-fe28-4dd5-bc34-ea4f7096f806.json
+[05Jan2025 21:24:26.056] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/8aefad04-fe28-4dd5-bc34-ea4f7096f806.json
+[05Jan2025 21:24:26.056] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/8aefad04-fe28-4dd5-bc34-ea4f7096f806.json
+[05Jan2025 21:24:26.056] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/8aefad04-fe28-4dd5-bc34-ea4f7096f806.json
+[05Jan2025 21:24:26.057] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/8aefad04-fe28-4dd5-bc34-ea4f7096f806.json
+[05Jan2025 21:24:26.057] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/8aefad04-fe28-4dd5-bc34-ea4f7096f806.json
+[05Jan2025 21:24:26.058] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/8aefad04-fe28-4dd5-bc34-ea4f7096f806.json
+[05Jan2025 21:24:26.058] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/8aefad04-fe28-4dd5-bc34-ea4f7096f806.json
+[05Jan2025 21:24:26.059] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/8aefad04-fe28-4dd5-bc34-ea4f7096f806.json
+[05Jan2025 21:24:26.060] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/8aefad04-fe28-4dd5-bc34-ea4f7096f806.json
+[05Jan2025 21:24:26.432] [Server thread/INFO] [cobgyms/]: Successfully placed structure: cobgyms:gym_woodland01 at 0,0,0
+[05Jan2025 21:24:26.440] [Server thread/INFO] [cobgyms/]: Gym initialised, took: 396ms
+[05Jan2025 21:24:41.156] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json

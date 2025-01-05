@@ -1,0 +1,64 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:tropius",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "cobblemon:impish",
+      "ability": "solarpower",
+      "moveset": [
+        "magicalleaf",
+        "stomp",
+        "sweetscent",
+        "razorleaf"
+      ],
+      "ivs": {
+        "hp": 10,
+        "attack": 11,
+        "defence": 12,
+        "special_attack": 14,
+        "special_defence": 14,
+        "speed": 23
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:ferroseed",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "cobblemon:hasty",
+      "ability": "ironbarbs",
+      "moveset": [
+        "flashcannon",
+        "ingrain",
+        "pinmissile",
+        "rollout"
+      ],
+      "ivs": {
+        "hp": 28,
+        "attack": 17,
+        "defence": 4,
+        "special_attack": 26,
+        "special_defence": 10,
+        "speed": 9
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "cobgyms whiteout_helper_command %player%",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

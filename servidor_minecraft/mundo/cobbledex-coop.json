@@ -393,6 +393,14 @@
         "discoveredTimestamp": 1736110655478,
         "caughtTimestamp": 1736110655478
       }
+    },
+    "gyarados": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1736111821539,
+        "caughtTimestamp": 1736111821539
+      }
     }
   }
 }

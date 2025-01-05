@@ -88,6 +88,22 @@
             "discoveredTimestamp": 1736110655477,
             "caughtTimestamp": 1736110655477
           }
+        },
+        "magikarp": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736111809387,
+            "caughtTimestamp": 1736111809387
+          }
+        },
+        "gyarados": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736111821539,
+            "caughtTimestamp": 1736111821539
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -98,12 +114,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 3,
+    "totalCaptureCount": 4,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 6,
+    "totalEvolvedCount": 6,
+    "totalBattleVictoryCount": 7,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 6,
+    "totalPvWBattleVictoryCount": 7,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 4,
@@ -111,7 +127,8 @@
       "normal": 1,
       "electric": 1,
       "ghost": 1,
-      "poison": 1
+      "poison": 1,
+      "water": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:petilil": 1,

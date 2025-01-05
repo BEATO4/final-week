@@ -1,0 +1,121 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:impidimp",
+      "gender": "MALE",
+      "level": 20,
+      "nature": "cobblemon:quiet",
+      "ability": "prankster",
+      "moveset": [
+        "swagger",
+        "assurance",
+        "faketears",
+        "flatter"
+      ],
+      "ivs": {
+        "hp": 29,
+        "attack": 22,
+        "defence": 7,
+        "special_attack": 1,
+        "special_defence": 24,
+        "speed": 18
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    },
+    {
+      "species": "cobblemon:nidorino",
+      "gender": "MALE",
+      "level": 20,
+      "nature": "cobblemon:quiet",
+      "ability": "rivalry",
+      "moveset": [
+        "furyattack",
+        "poisonsting",
+        "peck",
+        "leer"
+      ],
+      "ivs": {
+        "hp": 26,
+        "attack": 26,
+        "defence": 27,
+        "special_attack": 11,
+        "special_defence": 16,
+        "speed": 28
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    },
+    {
+      "species": "cobblemon:marshtomp",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "cobblemon:bold",
+      "ability": "torrent",
+      "moveset": [
+        "waterpulse",
+        "bide",
+        "supersonic",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 22,
+        "attack": 8,
+        "defence": 25,
+        "special_attack": 25,
+        "special_defence": 1,
+        "speed": 18
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:lombre",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "cobblemon:relaxed",
+      "ability": "raindish",
+      "moveset": [
+        "watersport",
+        "furyswipes",
+        "megadrain",
+        "mist"
+      ],
+      "ivs": {
+        "hp": 31,
+        "attack": 6,
+        "defence": 19,
+        "special_attack": 13,
+        "special_defence": 23,
+        "speed": 17
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    }
+  ],
+  "winCommand": "cobgyms complete_helper_command %player% 20 14 2 15",
+  "lossCommand": "cobgyms whiteout_helper_command %player%",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": [
+    "e91249d5-b575-4b43-8911-2f77a5b66cf5",
+    "0254fadf-eb6a-458c-a896-4d8f1a901c4d"
+  ]
+}
