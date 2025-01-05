@@ -784,11 +784,11 @@
     },
     "done": false
   },
-  "create:wrench_goggles": {
+  "create:rose_quartz": {
     "criteria": {
-      "0": "2025-01-05 21:18:06 +0000"
+      "0": "2025-01-05 21:02:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:super_glue": {
     "criteria": {
@@ -796,17 +796,95 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-01-05 21:18:06 +0000"
+    },
+    "done": false
+  },
   "create:contraption_actors": {
     "criteria": {
       "0": "2025-01-05 21:19:18 +0000"
     },
     "done": true
   },
-  "create:rose_quartz": {
+  "tombstone:adventure/find_grave_dust": {
     "criteria": {
-      "0": "2025-01-05 21:02:53 +0000"
+      "from_undead": "2025-01-05 21:51:49 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 22:12:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 22:12:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 22:12:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 22:12:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 22:12:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 22:12:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 22:12:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 22:12:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 22:12:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 22:12:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 22:12:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 22:12:03 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

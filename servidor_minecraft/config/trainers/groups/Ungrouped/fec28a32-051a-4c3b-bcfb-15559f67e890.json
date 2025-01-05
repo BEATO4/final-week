@@ -1,0 +1,145 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:thwackey",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "cobblemon:hardy",
+      "ability": "overgrow",
+      "moveset": [
+        "slam",
+        "knockoff",
+        "screech",
+        "razorleaf"
+      ],
+      "ivs": {
+        "attack": 31,
+        "defence": 5,
+        "special_attack": 3,
+        "special_defence": 6,
+        "speed": 26
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    },
+    {
+      "species": "cobblemon:nidorino",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "cobblemon:calm",
+      "ability": "rivalry",
+      "moveset": [
+        "doublekick",
+        "toxicspikes",
+        "furyattack",
+        "poisonsting"
+      ],
+      "ivs": {
+        "hp": 22,
+        "attack": 13,
+        "defence": 10,
+        "special_attack": 24,
+        "speed": 28
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    },
+    {
+      "species": "cobblemon:tinkatuff",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "cobblemon:bold",
+      "ability": "owntempo",
+      "moveset": [
+        "slam",
+        "brutalswing",
+        "sweetkiss",
+        "drainingkiss"
+      ],
+      "ivs": {
+        "hp": 4,
+        "attack": 12,
+        "defence": 8,
+        "special_attack": 24,
+        "special_defence": 6,
+        "speed": 17
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:impidimp",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "cobblemon:naive",
+      "ability": "prankster",
+      "moveset": [
+        "torment",
+        "suckerpunch",
+        "swagger",
+        "assurance"
+      ],
+      "ivs": {
+        "hp": 6,
+        "attack": 17,
+        "defence": 26,
+        "special_attack": 15,
+        "special_defence": 22,
+        "speed": 3
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    },
+    {
+      "species": "cobblemon:pupitar",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "cobblemon:lax",
+      "ability": "shedskin",
+      "moveset": [
+        "crunch",
+        "smackdown",
+        "darkpulse",
+        "screech"
+      ],
+      "ivs": {
+        "hp": 9,
+        "attack": 28,
+        "defence": 24,
+        "special_attack": 7,
+        "special_defence": 6
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    }
+  ],
+  "winCommand": "cobgyms complete_helper_command %player% 30 14 2 15",
+  "lossCommand": "cobgyms whiteout_helper_command %player%",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": [
+    "ff89566e-ea19-47bb-aaa4-56345b439da6",
+    "12e8802c-482b-4bc8-a057-72ab6fc1f3de"
+  ]
+}

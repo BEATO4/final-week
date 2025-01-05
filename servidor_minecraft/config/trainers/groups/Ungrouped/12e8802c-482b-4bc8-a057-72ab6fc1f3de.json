@@ -1,0 +1,118 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:yanmega",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "cobblemon:gentle",
+      "ability": "speedboost",
+      "moveset": [
+        "pursuit",
+        "uproar",
+        "supersonic",
+        "detect"
+      ],
+      "ivs": {
+        "hp": 12,
+        "attack": 6,
+        "defence": 29,
+        "special_attack": 10,
+        "special_defence": 18,
+        "speed": 4
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    },
+    {
+      "species": "cobblemon:weepinbell",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "cobblemon:hasty",
+      "ability": "chlorophyll",
+      "moveset": [
+        "knockoff",
+        "acid",
+        "stunspore",
+        "poisonpowder"
+      ],
+      "ivs": {
+        "hp": 22,
+        "attack": 31,
+        "defence": 8,
+        "special_attack": 5,
+        "special_defence": 27,
+        "speed": 9
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    },
+    {
+      "species": "cobblemon:frogadier",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "cobblemon:careful",
+      "ability": "torrent",
+      "moveset": [
+        "fling",
+        "round",
+        "smokescreen",
+        "waterpulse"
+      ],
+      "ivs": {
+        "hp": 6,
+        "attack": 22,
+        "defence": 9,
+        "special_attack": 2,
+        "special_defence": 14,
+        "speed": 31
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    },
+    {
+      "species": "cobblemon:staravia",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "cobblemon:calm",
+      "ability": "intimidate",
+      "moveset": [
+        "aerialace",
+        "whirlwind",
+        "endeavor",
+        "doubleteam"
+      ],
+      "ivs": {
+        "hp": 13,
+        "attack": 1,
+        "defence": 23,
+        "special_attack": 13,
+        "special_defence": 25,
+        "speed": 30
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "cobgyms whiteout_helper_command %player%",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

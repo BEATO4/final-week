@@ -207,8 +207,9 @@
     "breloom": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1736062098031
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1736062098031,
+        "caughtTimestamp": 1736114741281
       }
     },
     "linoone": {
@@ -284,8 +285,9 @@
     "stonjourner": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1736064699603
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1736064699603,
+        "caughtTimestamp": 1736113560981
       }
     },
     "mudsdale": {
@@ -400,6 +402,43 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1736111821539,
         "caughtTimestamp": 1736111821539
+      }
+    },
+    "tandemaus": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1736112993281
+      }
+    },
+    "persian": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1736113797133
+      }
+    },
+    "yamper": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1736113992010
+      }
+    },
+    "tinkatink": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1736115001781,
+        "caughtTimestamp": 1736115001781
+      }
+    },
+    "rapidash": {
+      "galar": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1736115058488,
+        "caughtTimestamp": 1736115058488
       }
     }
   }

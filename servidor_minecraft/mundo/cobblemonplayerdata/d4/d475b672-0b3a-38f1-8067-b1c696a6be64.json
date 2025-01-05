@@ -305,6 +305,27 @@
             "discoveredTimestamp": 1736110645429,
             "caughtTimestamp": 1736110645429
           }
+        },
+        "tandemaus": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1736112993280
+          }
+        },
+        "persian": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1736113797132
+          }
+        },
+        "yamper": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1736113992009
+          }
         }
       },
       "name": "cobbledex_discovery"

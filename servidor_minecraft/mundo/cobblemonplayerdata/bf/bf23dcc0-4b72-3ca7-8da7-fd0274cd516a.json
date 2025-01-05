@@ -104,23 +104,57 @@
             "discoveredTimestamp": 1736111821539,
             "caughtTimestamp": 1736111821539
           }
+        },
+        "stonjourner": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736113560981,
+            "caughtTimestamp": 1736113560981
+          }
+        },
+        "breloom": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736114741281,
+            "caughtTimestamp": 1736114741281
+          }
+        },
+        "tinkatink": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736115001779,
+            "caughtTimestamp": 1736115001779
+          }
+        },
+        "rapidash": {
+          "galar": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736115058488,
+            "caughtTimestamp": 1736115058488
+          }
         }
       },
       "name": "cobbledex_discovery"
     },
     "Cobbledex_RewardHistory": {
-      "received": [],
+      "received": [
+        "15"
+      ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 4,
+    "totalCaptureCount": 8,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 7,
+    "totalBattleVictoryCount": 18,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 7,
-    "totalPvNBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 14,
+    "totalPvNBattleVictoryCount": 4,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
@@ -128,12 +162,21 @@
       "electric": 1,
       "ghost": 1,
       "poison": 1,
-      "water": 1
+      "water": 1,
+      "rock": 1,
+      "grass": 1,
+      "fighting": 1,
+      "fairy": 2,
+      "steel": 1,
+      "psychic": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:petilil": 1,
       "cobblemon:patrat": 1,
-      "cobblemon:buneary": 1
+      "cobblemon:buneary": 1,
+      "cobblemon:psyduck": 1,
+      "cobblemon:ponyta": 1,
+      "cobblemon:paras": 1
     },
     "aspectsCollected": {}
   }
