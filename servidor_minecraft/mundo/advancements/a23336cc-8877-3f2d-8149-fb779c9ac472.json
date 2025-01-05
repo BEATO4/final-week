@@ -394,12 +394,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-05 20:19:53 +0000",
       "minecraft:skeleton": "2025-01-02 03:44:18 +0000",
       "minecraft:guardian": "2025-01-04 04:41:16 +0000",
       "minecraft:magma_cube": "2025-01-04 05:38:26 +0000",
       "minecraft:spider": "2025-01-02 04:34:37 +0000",
       "minecraft:creeper": "2025-01-05 19:45:02 +0000",
       "minecraft:slime": "2025-01-04 05:08:53 +0000",
+      "minecraft:phantom": "2025-01-05 20:26:43 +0000",
       "minecraft:witch": "2025-01-02 04:46:24 +0000",
       "minecraft:husk": "2025-01-04 04:15:46 +0000",
       "minecraft:cave_spider": "2025-01-02 04:46:32 +0000",
@@ -407,6 +409,7 @@
       "minecraft:silverfish": "2025-01-04 04:18:26 +0000",
       "minecraft:stray": "2025-01-04 04:26:33 +0000",
       "minecraft:zombie": "2025-01-02 04:46:18 +0000",
+      "minecraft:drowned": "2025-01-05 20:30:06 +0000",
       "minecraft:zombie_villager": "2025-01-04 03:40:28 +0000"
     },
     "done": false
@@ -443,7 +446,8 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
-      "in_pyramid_icy": "2025-01-02 04:21:38 +0000"
+      "in_pyramid_icy": "2025-01-02 04:21:38 +0000",
+      "in_pyramid_snowy": "2025-01-05 20:15:12 +0000"
     },
     "done": false
   },
@@ -503,6 +507,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_aspear_berry": "2025-01-05 20:23:47 +0000",
       "obtain_persim_berry": "2025-01-05 07:48:38 +0000",
       "obtain_oran_berry": "2025-01-04 02:35:33 +0000",
       "obtain_cheri_berry": "2025-01-04 02:35:35 +0000",
@@ -695,6 +700,90 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-01-05 19:10:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 20:33:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 20:33:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 20:33:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 20:33:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 20:33:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 20:33:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 20:33:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 20:33:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 20:33:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 20:33:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 20:33:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 20:33:07 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 20:19:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-05 20:08:43 +0000"
     },
     "done": true
   },

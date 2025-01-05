@@ -282,6 +282,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1736106399496
           }
+        },
+        "honedge": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1736107902979
+          }
         }
       },
       "name": "cobbledex_discovery"

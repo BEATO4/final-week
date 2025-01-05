@@ -300,6 +300,7 @@
       "minecraft:lush_caves": "2025-01-02 03:56:25 +0000",
       "minecraft:windswept_forest": "2025-01-05 07:30:20 +0000",
       "minecraft:ocean": "2025-01-05 07:34:08 +0000",
+      "minecraft:snowy_beach": "2025-01-05 20:09:01 +0000",
       "minecraft:flower_forest": "2025-01-02 03:30:19 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-02 03:46:21 +0000",
       "minecraft:savanna": "2025-01-05 07:16:32 +0000",
@@ -776,6 +777,12 @@
       "coded_trigger": "2025-01-05 19:30:51 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "carrot": "2025-01-05 20:14:45 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

@@ -32,6 +32,38 @@
             "discoveredTimestamp": 1736106749790,
             "caughtTimestamp": 1736106749790
           }
+        },
+        "elekid": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736107998717,
+            "caughtTimestamp": 1736107998717
+          }
+        },
+        "electabuzz": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736108015474,
+            "caughtTimestamp": 1736108015474
+          }
+        },
+        "gastly": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736110360634,
+            "caughtTimestamp": 1736110360634
+          }
+        },
+        "haunter": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736110380177,
+            "caughtTimestamp": 1736110380177
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -42,17 +74,20 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 1,
+    "totalCaptureCount": 3,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 4,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 6,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 6,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "normal": 1
+      "normal": 1,
+      "electric": 1,
+      "ghost": 1,
+      "poison": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:petilil": 1,
