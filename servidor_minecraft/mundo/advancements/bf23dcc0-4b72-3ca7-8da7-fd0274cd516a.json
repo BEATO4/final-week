@@ -298,6 +298,7 @@
       "minecraft:snowy_taiga": "2025-01-05 20:19:32 +0000",
       "minecraft:cold_ocean": "2025-01-05 20:46:20 +0000",
       "minecraft:forest": "2025-01-04 02:36:10 +0000",
+      "minecraft:jungle": "2025-01-05 22:21:31 +0000",
       "minecraft:flower_forest": "2025-01-04 03:10:11 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-04 02:36:05 +0000",
       "minecraft:meadow": "2025-01-04 03:06:37 +0000",
@@ -485,6 +486,7 @@
     "criteria": {
       "quick_ball": "2025-01-05 19:39:49 +0000",
       "ancient_poke_ball": "2025-01-05 22:10:01 +0000",
+      "heavy_ball": "2025-01-05 22:30:37 +0000",
       "ultra_ball": "2025-01-05 19:42:07 +0000",
       "heal_ball": "2025-01-05 21:28:52 +0000",
       "poke_ball": "2025-01-04 03:17:22 +0000"
@@ -659,6 +661,7 @@
   },
   "cobblemon:brew_all": {
     "criteria": {
+      "obtain_potion": "2025-01-05 22:30:44 +0000",
       "obtain_antidote": "2025-01-05 21:28:52 +0000"
     },
     "done": false
@@ -687,6 +690,12 @@
     },
     "done": true
   },
+  "cobblemon:craft_apricorn_balls": {
+    "criteria": {
+      "heavy_ball": "2025-01-05 22:30:37 +0000"
+    },
+    "done": false
+  },
   "repurposed_structures:witch_huts": {
     "criteria": {
       "in_witch_hut_birch": "2025-01-05 22:16:23 +0000"
@@ -698,6 +707,12 @@
       "ancient_poke_ball": "2025-01-05 22:10:01 +0000"
     },
     "done": false
+  },
+  "cobblemon:brew_potion": {
+    "criteria": {
+      "check_inv": "2025-01-05 22:30:44 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
