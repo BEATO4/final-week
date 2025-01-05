@@ -136,6 +136,14 @@
             "discoveredTimestamp": 1736115058488,
             "caughtTimestamp": 1736115058488
           }
+        },
+        "decidueye": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736117709133,
+            "caughtTimestamp": 1736117709133
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -150,10 +158,10 @@
   "advancementData": {
     "totalCaptureCount": 8,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 20,
+    "totalEvolvedCount": 7,
+    "totalBattleVictoryCount": 23,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 14,
+    "totalPvWBattleVictoryCount": 17,
     "totalPvNBattleVictoryCount": 6,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 4,
@@ -174,9 +182,11 @@
       "cobblemon:petilil": 1,
       "cobblemon:patrat": 1,
       "cobblemon:buneary": 1,
-      "cobblemon:psyduck": 1,
+      "cobblemon:psyduck": 2,
       "cobblemon:ponyta": 1,
-      "cobblemon:paras": 1
+      "cobblemon:paras": 1,
+      "cobblemon:bellsprout": 1,
+      "cobblemon:mankey": 1
     },
     "aspectsCollected": {}
   }

@@ -326,6 +326,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1736113992009
           }
+        },
+        "voltorb": {
+          "hisui": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1736117115077
+          }
         }
       },
       "name": "cobbledex_discovery"

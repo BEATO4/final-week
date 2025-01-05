@@ -440,6 +440,21 @@
         "discoveredTimestamp": 1736115058488,
         "caughtTimestamp": 1736115058488
       }
+    },
+    "voltorb": {
+      "hisui": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1736117115077
+      }
+    },
+    "decidueye": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1736117709135,
+        "caughtTimestamp": 1736117709135
+      }
     }
   }
 }
