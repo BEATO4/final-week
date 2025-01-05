@@ -288,14 +288,21 @@
       "minecraft:taiga": "2025-01-02 03:46:30 +0000",
       "minecraft:frozen_river": "2025-01-02 04:40:11 +0000",
       "minecraft:sunflower_plains": "2025-01-02 03:26:29 +0000",
+      "minecraft:birch_forest": "2025-01-05 07:25:59 +0000",
+      "minecraft:windswept_hills": "2025-01-05 07:17:56 +0000",
       "minecraft:beach": "2025-01-02 03:26:24 +0000",
+      "minecraft:dark_forest": "2025-01-05 07:29:53 +0000",
       "minecraft:river": "2025-01-02 03:30:11 +0000",
       "minecraft:snowy_plains": "2025-01-02 04:39:50 +0000",
       "minecraft:dripstone_caves": "2025-01-02 04:29:59 +0000",
+      "minecraft:snowy_taiga": "2025-01-05 08:19:24 +0000",
       "minecraft:forest": "2025-01-02 03:33:33 +0000",
       "minecraft:lush_caves": "2025-01-02 03:56:25 +0000",
+      "minecraft:windswept_forest": "2025-01-05 07:30:20 +0000",
+      "minecraft:ocean": "2025-01-05 07:34:08 +0000",
       "minecraft:flower_forest": "2025-01-02 03:30:19 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-02 03:46:21 +0000",
+      "minecraft:savanna": "2025-01-05 07:16:32 +0000",
       "minecraft:plains": "2025-01-02 03:31:42 +0000"
     },
     "done": false
@@ -317,6 +324,7 @@
       "cooked_beef": "2025-01-04 01:57:00 +0000",
       "beef": "2025-01-04 01:47:36 +0000",
       "baked_potato": "2025-01-04 04:44:55 +0000",
+      "apple": "2025-01-05 08:15:41 +0000",
       "bread": "2025-01-02 03:34:46 +0000",
       "rotten_flesh": "2025-01-04 02:44:18 +0000",
       "golden_carrot": "2025-01-04 04:50:14 +0000",
@@ -368,7 +376,8 @@
   },
   "repurposed_structures:villages": {
     "criteria": {
-      "in_village_giant_taiga": "2025-01-02 03:47:44 +0000"
+      "in_village_giant_taiga": "2025-01-02 03:47:44 +0000",
+      "in_village_oak": "2025-01-05 07:23:07 +0000"
     },
     "done": false
   },
@@ -626,6 +635,126 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-01-05 06:24:46 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-01-05 07:06:06 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-01-05 07:06:31 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-01-05 07:10:26 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-01-05 07:10:48 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_leek": {
+    "criteria": {
+      "check_inv": "2025-01-05 07:15:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 07:16:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-01-05 07:16:58 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-01-05 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-01-05 07:43:32 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-01-05 07:44:07 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "minecraft:fortress": "2025-01-05 07:50:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-05 07:50:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-01-05 07:50:46 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-01-05 07:50:46 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-01-05 07:50:46 +0000"
+    },
+    "done": false
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-01-05 07:50:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 07:52:07 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-01-05 07:52:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-01-05 07:54:11 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-01-05 08:05:38 +0000"
     },
     "done": true
   },
