@@ -15,6 +15,112 @@
         "discoveredTimestamp": 1735954687273,
         "caughtTimestamp": 1735954687273
       }
+    },
+    "torchic": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1735957179424,
+        "caughtTimestamp": 1735957179424
+      }
+    },
+    "rowlet": {
+      "hisuibias": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1735957942020,
+        "caughtTimestamp": 1735957942020
+      }
+    },
+    "fletchling": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1735958355913,
+        "caughtTimestamp": 1735958355913
+      }
+    },
+    "vulpix": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1735958452388,
+        "caughtTimestamp": 1735958452388
+      }
+    },
+    "magikarp": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1735959157969,
+        "caughtTimestamp": 1735959157969
+      }
+    },
+    "combusken": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1735960999008,
+        "caughtTimestamp": 1735960999008
+      }
+    },
+    "slugma": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1735965880585,
+        "caughtTimestamp": 1735965880585
+      }
+    },
+    "diglett": {
+      "alola": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1735966954186,
+        "caughtTimestamp": 1735966954186
+      }
+    },
+    "pidgey": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1736059072819
+      }
+    },
+    "mareep": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1736059076927
+      }
+    },
+    "diggersby": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1736059080047
+      }
+    },
+    "mudbray": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1736059127526
+      }
+    },
+    "wooloo": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1736059231849
+      }
+    },
+    "taillow": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1736059233699
+      }
     }
   }
 }

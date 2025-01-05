@@ -16,6 +16,64 @@
             "discoveredTimestamp": 1735954687271,
             "caughtTimestamp": 1735954687271
           }
+        },
+        "diglett": {
+          "alola": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1735966954186,
+            "caughtTimestamp": 1735966954186
+          }
+        },
+        "slugma": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1735967024698,
+            "caughtTimestamp": 1735967024698
+          }
+        },
+        "pidgey": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1736059072817
+          }
+        },
+        "mareep": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1736059076927
+          }
+        },
+        "diggersby": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1736059080046
+          }
+        },
+        "mudbray": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1736059127524
+          }
+        },
+        "wooloo": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1736059231849
+          }
+        },
+        "taillow": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1736059233698
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -26,16 +84,19 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 1,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 0,
+    "totalBattleVictoryCount": 1,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 1,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
+    "totalTradedCount": 1,
+    "totalTypeCaptureCounts": {
+      "ground": 1,
+      "steel": 1
+    },
     "totalDefeatedCounts": {},
     "aspectsCollected": {}
   }

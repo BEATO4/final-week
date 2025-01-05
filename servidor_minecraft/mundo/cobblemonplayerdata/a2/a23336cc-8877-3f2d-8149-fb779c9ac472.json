@@ -29,14 +29,19 @@
     "totalCaptureCount": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 0,
+    "totalBattleVictoryCount": 4,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 4,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {},
-    "totalDefeatedCounts": {},
+    "totalDefeatedCounts": {
+      "cobblemon:snubbull": 1,
+      "cobblemon:meowth": 1,
+      "cobblemon:cottonee": 1,
+      "cobblemon:lechonk": 1
+    },
     "aspectsCollected": {}
   }
 }
