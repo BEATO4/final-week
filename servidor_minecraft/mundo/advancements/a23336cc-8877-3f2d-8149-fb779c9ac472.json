@@ -293,6 +293,7 @@
       "minecraft:dark_forest": "2025-01-04 03:46:38 +0000",
       "minecraft:river": "2025-01-02 03:34:06 +0000",
       "minecraft:snowy_plains": "2025-01-02 04:18:51 +0000",
+      "minecraft:stony_shore": "2025-01-05 19:01:54 +0000",
       "minecraft:dripstone_caves": "2025-01-02 03:50:16 +0000",
       "minecraft:snowy_taiga": "2025-01-02 04:17:59 +0000",
       "minecraft:swamp": "2025-01-04 03:46:40 +0000",
@@ -301,6 +302,7 @@
       "minecraft:ice_spikes": "2025-01-02 04:20:33 +0000",
       "minecraft:frozen_ocean": "2025-01-05 07:58:38 +0000",
       "minecraft:windswept_forest": "2025-01-04 03:45:07 +0000",
+      "minecraft:ocean": "2025-01-05 19:12:18 +0000",
       "minecraft:snowy_beach": "2025-01-05 07:57:53 +0000",
       "minecraft:flower_forest": "2025-01-02 04:09:53 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-04 03:00:26 +0000",
@@ -682,6 +684,18 @@
       "in_outpost_snowy": "2025-01-05 08:20:08 +0000"
     },
     "done": false
+  },
+  "immersive_weathering:immersive_weathering/moss": {
+    "criteria": {
+      "apple": "2025-01-05 18:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-05 19:10:17 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
