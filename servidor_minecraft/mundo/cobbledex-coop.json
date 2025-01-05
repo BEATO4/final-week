@@ -134,6 +134,11 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1736059411196
+      },
+      "galar": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1736103140625
       }
     },
     "gloom": {
@@ -288,6 +293,20 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1736103060389
+      }
+    },
+    "pineco": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1736103163877
+      }
+    },
+    "swellow": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1736103446845
       }
     }
   }

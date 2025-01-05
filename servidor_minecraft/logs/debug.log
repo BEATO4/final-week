@@ -18814,3 +18814,514 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [05Jan2025 18:51:21.845] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
 [05Jan2025 18:51:21.845] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [05Jan2025 18:51:21.846] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 18:51:51.894] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 18:51:51.894] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 18:51:51.928] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 18:51:52.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Teleported BEAT04 to Javvier_]
+[05Jan2025 18:52:20.625] [Server thread/DEBUG] [Cobbledex/]: Saving 40 entries to /workspaces/final-week/servidor_minecraft/./mundo/./cobbledex-coop.json
+[05Jan2025 18:52:21.606] [Server thread/DEBUG] [Cobbledex/]: Saving 40 entries to /workspaces/final-week/servidor_minecraft/./mundo/./cobbledex-coop.json
+[05Jan2025 18:52:21.945] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 18:52:21.945] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 18:52:21.946] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 18:52:43.877] [Server thread/DEBUG] [Cobbledex/]: Saving 41 entries to /workspaces/final-week/servidor_minecraft/./mundo/./cobbledex-coop.json
+[05Jan2025 18:52:51.995] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 18:52:51.996] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 18:52:51.997] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 18:53:21.132] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[05Jan2025 18:53:21.132] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[05Jan2025 18:53:21.132] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[05Jan2025 18:53:21.169] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[05Jan2025 18:53:21.170] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[05Jan2025 18:53:21.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundo
+[05Jan2025 18:53:21.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundo
+[05Jan2025 18:53:21.268] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[05Jan2025 18:53:22.045] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 18:53:22.045] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 18:53:22.046] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 18:53:52.096] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 18:53:52.096] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 18:53:52.097] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 18:54:13.045] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[05Jan2025 18:54:13.046] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[05Jan2025 18:54:13.046] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[05Jan2025 18:54:13.046] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 200
+[05Jan2025 18:54:13.046] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 175
+[05Jan2025 18:54:13.047] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[05Jan2025 18:54:13.047] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[05Jan2025 18:54:13.047] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[05Jan2025 18:54:22.145] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 18:54:22.145] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 18:54:22.146] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 18:54:25.937] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=704, y=-64, z=2896}
+[05Jan2025 18:54:26.187] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=720, y=-64, z=2928}
+[05Jan2025 18:54:26.233] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=720, y=-64, z=2912}
+[05Jan2025 18:54:26.343] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=688, y=-64, z=2864}
+[05Jan2025 18:54:26.388] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=688, y=-64, z=2880}
+[05Jan2025 18:54:30.526] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=736, y=-64, z=2944}
+[05Jan2025 18:54:30.990] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=704, y=-64, z=2912}
+[05Jan2025 18:54:31.054] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=720, y=-64, z=2944}
+[05Jan2025 18:54:31.157] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=688, y=-64, z=2896}
+[05Jan2025 18:54:33.735] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=704, y=-64, z=2928}
+[05Jan2025 18:54:34.075] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=720, y=-64, z=2960}
+[05Jan2025 18:54:34.143] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=688, y=-64, z=2912}
+[05Jan2025 18:54:35.905] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=704, y=-64, z=2944}
+[05Jan2025 18:54:36.099] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=720, y=-64, z=2976}
+[05Jan2025 18:54:36.191] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=688, y=-64, z=2928}
+[05Jan2025 18:54:38.178] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[05Jan2025 18:54:38.179] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[05Jan2025 18:54:38.181] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[05Jan2025 18:54:38.183] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[05Jan2025 18:54:38.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[05Jan2025 18:54:38.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[05Jan2025 18:54:38.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[05Jan2025 18:54:43.232] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=0, y=-64, z=2800}
+[05Jan2025 18:54:43.550] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=0, y=-64, z=2816}
+[05Jan2025 18:54:43.561] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-16, y=-64, z=2816}
+[05Jan2025 18:54:43.604] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[05Jan2025 18:54:43.618] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-16, y=-64, z=2800}
+[05Jan2025 18:54:43.834] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-32, y=-64, z=2800}
+[05Jan2025 18:54:43.852] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-32, y=-64, z=2816}
+[05Jan2025 18:54:44.151] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-16, y=-64, z=2832}
+[05Jan2025 18:54:44.169] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=0, y=-64, z=2832}
+[05Jan2025 18:54:44.243] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-32, y=-64, z=2832}
+[05Jan2025 18:54:44.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[05Jan2025 18:54:54.245] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 18:54:54.246] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 18:54:54.247] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 18:55:20.792] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=688, y=-64, z=2944}
+[05Jan2025 18:55:20.861] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=704, y=-64, z=2960}
+[05Jan2025 18:55:21.296] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=704, y=-64, z=2976}
+[05Jan2025 18:55:21.475] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=672, y=-64, z=2864}
+[05Jan2025 18:55:21.491] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=672, y=-64, z=2848}
+[05Jan2025 18:55:21.519] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=672, y=-64, z=2912}
+[05Jan2025 18:55:21.531] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=672, y=-64, z=2896}
+[05Jan2025 18:55:21.544] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=672, y=-64, z=2880}
+[05Jan2025 18:55:21.770] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=672, y=-64, z=2928}
+[05Jan2025 18:55:24.294] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 18:55:24.294] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 18:55:24.295] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 18:55:54.346] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 18:55:54.346] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 18:55:54.347] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 18:56:24.395] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 18:56:24.395] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 18:56:24.396] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 18:56:54.444] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 18:56:54.445] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 18:56:54.446] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 18:57:24.495] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 18:57:24.496] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 18:57:24.497] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 18:57:26.845] [Server thread/DEBUG] [Cobbledex/]: Saving 42 entries to /workspaces/final-week/servidor_minecraft/./mundo/./cobbledex-coop.json
+[05Jan2025 18:57:35.478] [Server thread/DEBUG] [Cobbledex/]: Saving 42 entries to /workspaces/final-week/servidor_minecraft/./mundo/./cobbledex-coop.json
+[05Jan2025 18:57:54.546] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 18:57:54.546] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 18:57:54.546] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 18:58:19.355] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1152, y=-64, z=2976}
+[05Jan2025 18:58:20.590] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1136, y=-64, z=2992}
+[05Jan2025 18:58:21.004] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1152, y=-64, z=2992}
+[05Jan2025 18:58:21.045] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1184, y=-64, z=2944}
+[05Jan2025 18:58:23.188] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[05Jan2025 18:58:23.188] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[05Jan2025 18:58:23.188] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[05Jan2025 18:58:23.223] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[05Jan2025 18:58:23.224] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[05Jan2025 18:58:23.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundo
+[05Jan2025 18:58:23.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundo
+[05Jan2025 18:58:23.317] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[05Jan2025 18:58:24.595] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 18:58:24.595] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 18:58:24.595] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 18:58:30.613] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[05Jan2025 18:58:30.702] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1136, y=-64, z=3008}
+[05Jan2025 18:58:30.900] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1168, y=-64, z=2976}
+[05Jan2025 18:58:31.208] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1152, y=-64, z=3008}
+[05Jan2025 18:58:31.250] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1184, y=-64, z=2960}
+[05Jan2025 18:58:36.685] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1168, y=-64, z=2992}
+[05Jan2025 18:58:36.759] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1152, y=-64, z=3024}
+[05Jan2025 18:58:36.775] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1184, y=-64, z=2976}
+[05Jan2025 18:58:44.739] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1168, y=-64, z=3008}
+[05Jan2025 18:58:44.869] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1152, y=-64, z=3040}
+[05Jan2025 18:58:44.885] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1168, y=-64, z=3024}
+[05Jan2025 18:58:45.027] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1184, y=-64, z=3008}
+[05Jan2025 18:58:45.046] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1184, y=-64, z=2992}
+[05Jan2025 18:58:45.114] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1168, y=-64, z=3040}
+[05Jan2025 18:58:45.401] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1200, y=-64, z=2960}
+[05Jan2025 18:58:45.414] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1200, y=-64, z=2944}
+[05Jan2025 18:58:45.598] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1200, y=-64, z=2992}
+[05Jan2025 18:58:45.608] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1200, y=-64, z=2976}
+[05Jan2025 18:58:52.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3033ms or 60 ticks behind
+[05Jan2025 18:58:57.649] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 18:58:57.649] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 18:58:57.649] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 18:58:59.266] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1184, y=-64, z=3024}
+[05Jan2025 18:58:59.335] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1168, y=-64, z=3056}
+[05Jan2025 18:58:59.344] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1200, y=-64, z=3008}
+[05Jan2025 18:59:04.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BEAT04 fell from a high place
+[05Jan2025 18:59:04.361] [Server thread/DEBUG] [tombstone/]: A new grave of the player BEAT04 was created at position [x:461, y:72, z:21, dim:minecraft:overworld]
+[05Jan2025 18:59:04.438] [Server thread/INFO] [tombstone/]: The player BEAT04 has successfully been saved
+[05Jan2025 18:59:27.695] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 18:59:27.695] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 18:59:27.695] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 18:59:34.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Javvier_ has completed the challenge [Perpetuate the Cycle?]
+[05Jan2025 18:59:57.745] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 18:59:57.745] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 18:59:57.745] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:00:18.683] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-16, y=-64, z=2960}
+[05Jan2025 19:00:18.855] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-16, y=-64, z=2976}
+[05Jan2025 19:00:19.025] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-32, y=-64, z=2960}
+[05Jan2025 19:00:19.242] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=0, y=-64, z=2960}
+[05Jan2025 19:00:19.257] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=0, y=-64, z=2976}
+[05Jan2025 19:00:19.515] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=0, y=-64, z=2992}
+[05Jan2025 19:00:27.794] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:00:27.794] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:00:27.794] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:00:40.574] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1184, y=-64, z=3040}
+[05Jan2025 19:00:40.611] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1200, y=-64, z=3024}
+[05Jan2025 19:00:41.699] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1184, y=-64, z=3056}
+[05Jan2025 19:00:41.763] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1200, y=-64, z=3040}
+[05Jan2025 19:00:41.944] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1184, y=-64, z=3072}
+[05Jan2025 19:00:42.418] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1216, y=-64, z=2912}
+[05Jan2025 19:00:42.429] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1216, y=-64, z=2928}
+[05Jan2025 19:00:42.441] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1216, y=-64, z=2944}
+[05Jan2025 19:00:42.449] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1216, y=-64, z=2960}
+[05Jan2025 19:00:42.564] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1216, y=-64, z=2976}
+[05Jan2025 19:00:42.620] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1216, y=-64, z=2992}
+[05Jan2025 19:00:42.723] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1216, y=-64, z=3008}
+[05Jan2025 19:00:42.859] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1216, y=-64, z=3024}
+[05Jan2025 19:00:46.035] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1200, y=-64, z=3056}
+[05Jan2025 19:00:46.338] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1216, y=-64, z=3040}
+[05Jan2025 19:00:46.345] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1200, y=-64, z=3072}
+[05Jan2025 19:00:47.094] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1232, y=-64, z=2928}
+[05Jan2025 19:00:47.121] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1232, y=-64, z=2912}
+[05Jan2025 19:00:47.186] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1232, y=-64, z=2960}
+[05Jan2025 19:00:47.197] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1232, y=-64, z=2944}
+[05Jan2025 19:00:47.221] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1232, y=-64, z=2976}
+[05Jan2025 19:00:47.229] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1232, y=-64, z=2992}
+[05Jan2025 19:00:47.272] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1232, y=-64, z=3008}
+[05Jan2025 19:00:47.316] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1232, y=-64, z=3024}
+[05Jan2025 19:00:47.683] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1232, y=-64, z=2848}
+[05Jan2025 19:00:50.150] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1184, y=-64, z=3088}
+[05Jan2025 19:00:50.199] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1216, y=-64, z=3056}
+[05Jan2025 19:00:50.586] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1232, y=-64, z=3040}
+[05Jan2025 19:00:50.659] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1200, y=-64, z=3088}
+[05Jan2025 19:00:52.602] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1248, y=-64, z=2928}
+[05Jan2025 19:00:52.610] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1248, y=-64, z=2912}
+[05Jan2025 19:00:52.628] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1248, y=-64, z=2944}
+[05Jan2025 19:00:52.641] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1248, y=-64, z=2896}
+[05Jan2025 19:00:52.648] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1248, y=-64, z=2960}
+[05Jan2025 19:00:52.750] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1248, y=-64, z=2992}
+[05Jan2025 19:00:52.755] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1248, y=-64, z=2976}
+[05Jan2025 19:00:52.804] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1216, y=-64, z=3072}
+[05Jan2025 19:00:53.006] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1248, y=-64, z=3008}
+[05Jan2025 19:00:53.026] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1248, y=-64, z=2880}
+[05Jan2025 19:00:53.124] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1232, y=-64, z=3056}
+[05Jan2025 19:00:53.431] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1248, y=-64, z=3024}
+[05Jan2025 19:00:53.439] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1216, y=-64, z=3088}
+[05Jan2025 19:00:53.557] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1248, y=-64, z=3040}
+[05Jan2025 19:00:56.628] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-32, y=-64, z=2928}
+[05Jan2025 19:00:56.641] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-32, y=-64, z=2912}
+[05Jan2025 19:00:56.849] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-16, y=-64, z=2928}
+[05Jan2025 19:00:56.890] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-32, y=-64, z=2896}
+[05Jan2025 19:00:57.054] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-16, y=-64, z=2912}
+[05Jan2025 19:00:57.062] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-16, y=-64, z=2896}
+[05Jan2025 19:00:57.168] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-48, y=-64, z=2912}
+[05Jan2025 19:00:57.262] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-48, y=-64, z=2928}
+[05Jan2025 19:00:57.268] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-48, y=-64, z=2896}
+[05Jan2025 19:00:57.808] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1264, y=-64, z=2912}
+[05Jan2025 19:00:57.865] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1264, y=-64, z=2944}
+[05Jan2025 19:00:57.873] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1264, y=-64, z=2928}
+[05Jan2025 19:00:57.977] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1264, y=-64, z=2976}
+[05Jan2025 19:00:58.014] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1264, y=-64, z=2960}
+[05Jan2025 19:00:58.047] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1264, y=-64, z=2992}
+[05Jan2025 19:00:58.270] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1232, y=-64, z=3072}
+[05Jan2025 19:00:58.445] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1264, y=-64, z=3008}
+[05Jan2025 19:00:58.523] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1248, y=-64, z=3056}
+[05Jan2025 19:00:58.643] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:00:58.643] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:00:58.643] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:00:58.659] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1200, y=-64, z=3104}
+[05Jan2025 19:00:58.719] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1264, y=-64, z=3024}
+[05Jan2025 19:00:58.832] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1264, y=-64, z=3040}
+[05Jan2025 19:00:58.840] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1232, y=-64, z=3088}
+[05Jan2025 19:00:59.006] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1184, y=-64, z=3120}
+[05Jan2025 19:01:00.479] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1216, y=-64, z=3104}
+[05Jan2025 19:01:00.507] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1248, y=-64, z=3072}
+[05Jan2025 19:01:00.960] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1232, y=-64, z=3104}
+[05Jan2025 19:01:01.013] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1264, y=-64, z=3056}
+[05Jan2025 19:01:08.486] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1280, y=-64, z=2944}
+[05Jan2025 19:01:08.491] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1280, y=-64, z=2960}
+[05Jan2025 19:01:08.496] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1280, y=-64, z=2976}
+[05Jan2025 19:01:08.511] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1280, y=-64, z=2928}
+[05Jan2025 19:01:08.550] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1280, y=-64, z=2912}
+[05Jan2025 19:01:08.556] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1280, y=-64, z=2992}
+[05Jan2025 19:01:08.727] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1280, y=-64, z=3008}
+[05Jan2025 19:01:08.966] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1280, y=-64, z=2896}
+[05Jan2025 19:01:08.971] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1280, y=-64, z=3024}
+[05Jan2025 19:01:08.977] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1248, y=-64, z=3088}
+[05Jan2025 19:01:09.019] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1264, y=-64, z=3072}
+[05Jan2025 19:01:09.393] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1280, y=-64, z=3040}
+[05Jan2025 19:01:09.551] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1248, y=-64, z=3104}
+[05Jan2025 19:01:09.561] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1280, y=-64, z=3056}
+[05Jan2025 19:01:16.268] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1264, y=-64, z=3088}
+[05Jan2025 19:01:16.425] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1248, y=-64, z=3120}
+[05Jan2025 19:01:16.546] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1280, y=-64, z=3072}
+[05Jan2025 19:01:18.297] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1296, y=-64, z=3024}
+[05Jan2025 19:01:18.350] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1296, y=-64, z=3008}
+[05Jan2025 19:01:18.443] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1296, y=-64, z=2992}
+[05Jan2025 19:01:18.450] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1296, y=-64, z=2976}
+[05Jan2025 19:01:18.513] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1296, y=-64, z=2960}
+[05Jan2025 19:01:18.610] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1296, y=-64, z=2944}
+[05Jan2025 19:01:18.668] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1264, y=-64, z=3104}
+[05Jan2025 19:01:18.715] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1296, y=-64, z=2928}
+[05Jan2025 19:01:18.811] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1296, y=-64, z=2912}
+[05Jan2025 19:01:18.864] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1280, y=-64, z=3088}
+[05Jan2025 19:01:18.922] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1296, y=-64, z=3040}
+[05Jan2025 19:01:19.047] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1296, y=-64, z=3056}
+[05Jan2025 19:01:19.483] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1296, y=-64, z=3072}
+[05Jan2025 19:01:19.606] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1264, y=-64, z=2800}
+[05Jan2025 19:01:22.763] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1280, y=-64, z=3104}
+[05Jan2025 19:01:23.401] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1312, y=-64, z=3008}
+[05Jan2025 19:01:23.422] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1312, y=-64, z=3040}
+[05Jan2025 19:01:23.446] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1312, y=-64, z=3024}
+[05Jan2025 19:01:23.544] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1312, y=-64, z=2992}
+[05Jan2025 19:01:23.603] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1312, y=-64, z=2976}
+[05Jan2025 19:01:23.622] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1312, y=-64, z=2960}
+[05Jan2025 19:01:23.629] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1312, y=-64, z=2944}
+[05Jan2025 19:01:23.846] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1312, y=-64, z=2928}
+[05Jan2025 19:01:23.944] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1312, y=-64, z=3056}
+[05Jan2025 19:01:24.004] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1312, y=-64, z=2912}
+[05Jan2025 19:01:27.895] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:01:27.895] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:01:27.895] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:01:29.191] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[05Jan2025 19:01:29.680] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1328, y=-64, z=2976}
+[05Jan2025 19:01:29.685] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1328, y=-64, z=2992}
+[05Jan2025 19:01:29.689] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1328, y=-64, z=2960}
+[05Jan2025 19:01:29.694] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1328, y=-64, z=3008}
+[05Jan2025 19:01:29.748] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1328, y=-64, z=2944}
+[05Jan2025 19:01:29.793] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1328, y=-64, z=3024}
+[05Jan2025 19:01:29.801] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1328, y=-64, z=3040}
+[05Jan2025 19:01:30.097] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1328, y=-64, z=2928}
+[05Jan2025 19:01:30.291] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1328, y=-64, z=3056}
+[05Jan2025 19:01:30.598] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_15
+[05Jan2025 19:01:31.006] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1328, y=-64, z=2912}
+[05Jan2025 19:01:32.595] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1296, y=-64, z=2832}
+[05Jan2025 19:01:32.774] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-32, y=-64, z=2944}
+[05Jan2025 19:01:32.779] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-16, y=-64, z=2944}
+[05Jan2025 19:01:32.902] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-48, y=-64, z=2944}
+[05Jan2025 19:01:32.939] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=-48, y=-64, z=2960}
+[05Jan2025 19:01:36.707] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_2
+[05Jan2025 19:01:38.786] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1344, y=-64, z=3008}
+[05Jan2025 19:01:38.793] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1344, y=-64, z=3024}
+[05Jan2025 19:01:39.147] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1344, y=-64, z=3056}
+[05Jan2025 19:01:39.153] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1344, y=-64, z=3040}
+[05Jan2025 19:01:39.166] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1344, y=-64, z=2992}
+[05Jan2025 19:01:39.180] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1344, y=-64, z=2976}
+[05Jan2025 19:01:39.583] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1325, y=140, z=3034} but found not block entity block Block{minecraft:air} at location
+[05Jan2025 19:01:39.583] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1325, y=140, z=3034}
+[05Jan2025 19:01:39.669] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1344, y=-64, z=2960}
+[05Jan2025 19:01:39.790] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1344, y=-64, z=2944}
+[05Jan2025 19:01:39.877] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1344, y=-64, z=2928}
+[05Jan2025 19:01:41.382] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[05Jan2025 19:01:43.775] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1360, y=-64, z=3056}
+[05Jan2025 19:01:43.783] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1360, y=-64, z=3040}
+[05Jan2025 19:01:43.802] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1360, y=-64, z=3024}
+[05Jan2025 19:01:43.824] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1360, y=-64, z=3008}
+[05Jan2025 19:01:43.830] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1360, y=-64, z=2992}
+[05Jan2025 19:01:44.199] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1360, y=-64, z=2976}
+[05Jan2025 19:01:44.209] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1360, y=-64, z=2960}
+[05Jan2025 19:01:44.215] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1360, y=-64, z=2928}
+[05Jan2025 19:01:44.225] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1360, y=-64, z=2944}
+[05Jan2025 19:01:45.134] [Server thread/DEBUG] [mixin/]: Mixing compat.PistonReactQuarkMixin from moonlight-common.mixins.json into net.mehvahdjukaar.moonlight.api.block.IPistonMotionReact
+[05Jan2025 19:01:45.840] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_25 is being run through DFU (hash 56a2d03751a8527b4c43187c1e8b9d2817d2614bdf1ca73a3321174b74f1f38a), this will cause launch time delays
+[05Jan2025 19:01:49.282] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1376, y=-64, z=3056}
+[05Jan2025 19:01:49.289] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1376, y=-64, z=3040}
+[05Jan2025 19:01:49.457] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1376, y=-64, z=3024}
+[05Jan2025 19:01:49.709] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1376, y=-64, z=3008}
+[05Jan2025 19:01:49.716] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1376, y=-64, z=2992}
+[05Jan2025 19:01:49.885] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1376, y=-64, z=2976}
+[05Jan2025 19:01:50.001] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1376, y=-64, z=2960}
+[05Jan2025 19:01:55.046] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1392, y=-64, z=3040}
+[05Jan2025 19:01:55.166] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1392, y=-64, z=3024}
+[05Jan2025 19:01:55.249] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1392, y=-64, z=3008}
+[05Jan2025 19:01:55.345] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1392, y=-64, z=2992}
+[05Jan2025 19:01:55.645] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1392, y=-64, z=2976}
+[05Jan2025 19:01:58.347] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:01:58.347] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:01:58.348] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:01:59.629] [Server thread/DEBUG] [net.lavabucket.hourglass.time.TimeService/hourglass]: Sleep cycle complete on dimension: minecraft:overworld.
+[05Jan2025 19:02:02.303] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1408, y=-64, z=3104}
+[05Jan2025 19:02:03.617] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1408, y=-64, z=3008}
+[05Jan2025 19:02:08.667] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1424, y=-64, z=3104}
+[05Jan2025 19:02:08.678] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1424, y=-64, z=3120}
+[05Jan2025 19:02:09.102] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1424, y=-64, z=3088}
+[05Jan2025 19:02:09.520] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1424, y=-64, z=3216}
+[05Jan2025 19:02:09.650] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1424, y=-64, z=3232}
+[05Jan2025 19:02:09.669] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1408, y=-64, z=2992}
+[05Jan2025 19:02:10.526] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1424, y=-64, z=3248}
+[05Jan2025 19:02:11.886] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1440, y=-64, z=3120}
+[05Jan2025 19:02:11.893] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1440, y=-64, z=3104}
+[05Jan2025 19:02:11.984] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1440, y=-64, z=3088}
+[05Jan2025 19:02:11.994] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1440, y=-64, z=3072}
+[05Jan2025 19:02:12.313] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1440, y=-64, z=3200}
+[05Jan2025 19:02:12.380] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1440, y=-64, z=3216}
+[05Jan2025 19:02:12.468] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1440, y=-64, z=3232}
+[05Jan2025 19:02:12.762] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1408, y=-64, z=2976}
+[05Jan2025 19:02:21.451] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1456, y=-64, z=3056}
+[05Jan2025 19:02:21.520] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1456, y=-64, z=3088}
+[05Jan2025 19:02:21.529] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1456, y=-64, z=3072}
+[05Jan2025 19:02:21.535] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1456, y=-64, z=3104}
+[05Jan2025 19:02:22.046] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1456, y=-64, z=3152}
+[05Jan2025 19:02:22.273] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1456, y=-64, z=3168}
+[05Jan2025 19:02:22.344] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1456, y=-64, z=3200}
+[05Jan2025 19:02:22.369] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1456, y=-64, z=3184}
+[05Jan2025 19:02:22.488] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1440, y=-64, z=3248}
+[05Jan2025 19:02:22.559] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1456, y=-64, z=3216}
+[05Jan2025 19:02:22.598] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1456, y=-64, z=3232}
+[05Jan2025 19:02:22.790] [Worker-Main-2/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1424, y=-64, z=3280}
+[05Jan2025 19:02:22.801] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1424, y=-64, z=3264}
+[05Jan2025 19:02:25.085] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1440, y=-64, z=3264}
+[05Jan2025 19:02:25.308] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1456, y=-64, z=3248}
+[05Jan2025 19:02:25.447] [Worker-Main-3/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=1424, y=-64, z=3296}
+[05Jan2025 19:02:27.994] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 19:02:27.995] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:02:27.996] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.

@@ -587,13 +587,15 @@
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
+      "roseate_ball": "2025-01-05 18:57:40 +0000",
       "poke_ball": "2025-01-04 05:30:58 +0000"
     },
     "done": false
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
-      "poke_ball": "2025-01-04 05:30:58 +0000"
+      "poke_ball": "2025-01-04 05:30:58 +0000",
+      "roseate_ball": "2025-01-05 18:57:40 +0000"
     },
     "done": false
   },
