@@ -9908,3 +9908,12 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [05Jan2025 20:52:54.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 15 [Iron Ingot] to BEAT04]
 [05Jan2025 20:53:18.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 15 [Iron Ingot] to BEAT04]
 [05Jan2025 20:53:46.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 40 [Andesite] to BEAT04]
+[05Jan2025 20:53:51.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 60 [Andesite] to BEAT04]
+[05Jan2025 20:54:47.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CactuZzz has made the advancement [Take Good Care!]
+[05Jan2025 20:55:08.983] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[05Jan2025 20:55:08.984] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[05Jan2025 21:00:08.975] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[05Jan2025 21:00:08.975] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[05Jan2025 21:00:47.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 40 [Andesite] to BEAT04]
+[05Jan2025 21:02:48.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 1 [Sand Paper] to BEAT04]
+[05Jan2025 21:04:36.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 20 [Bone] to BEAT04]

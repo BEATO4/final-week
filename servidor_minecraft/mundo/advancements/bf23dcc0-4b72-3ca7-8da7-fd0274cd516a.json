@@ -563,6 +563,12 @@
     },
     "done": true
   },
+  "cobblemon:trade_pokemon": {
+    "criteria": {
+      "trade": "2025-01-05 20:54:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-01-05 20:27:12 +0000"

@@ -377,6 +377,22 @@
         "discoveredTimestamp": 1736110380178,
         "caughtTimestamp": 1736110380178
       }
+    },
+    "gengar": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1736110511718,
+        "caughtTimestamp": 1736110511718
+      }
+    },
+    "electivire": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1736110655478,
+        "caughtTimestamp": 1736110655478
+      }
     }
   }
 }

@@ -64,6 +64,30 @@
             "discoveredTimestamp": 1736110380177,
             "caughtTimestamp": 1736110380177
           }
+        },
+        "slugma": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736110487822,
+            "caughtTimestamp": 1736110487822
+          }
+        },
+        "gengar": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736110511717,
+            "caughtTimestamp": 1736110511717
+          }
+        },
+        "electivire": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736110655477,
+            "caughtTimestamp": 1736110655477
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -76,13 +100,13 @@
   "advancementData": {
     "totalCaptureCount": 3,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 3,
+    "totalEvolvedCount": 5,
     "totalBattleVictoryCount": 6,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 6,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 0,
+    "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
       "normal": 1,
       "electric": 1,

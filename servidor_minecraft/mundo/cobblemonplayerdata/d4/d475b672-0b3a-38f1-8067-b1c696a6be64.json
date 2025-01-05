@@ -289,6 +289,22 @@
             "status": "SEEN",
             "discoveredTimestamp": 1736107902979
           }
+        },
+        "haunter": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736110487823,
+            "caughtTimestamp": 1736110487823
+          }
+        },
+        "electabuzz": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736110645429,
+            "caughtTimestamp": 1736110645429
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -307,7 +323,7 @@
     "totalPvWBattleVictoryCount": 1,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 1,
+    "totalTradedCount": 5,
     "totalTypeCaptureCounts": {
       "ground": 1,
       "steel": 1
