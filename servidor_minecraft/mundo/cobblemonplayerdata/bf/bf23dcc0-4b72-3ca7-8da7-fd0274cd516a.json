@@ -144,6 +144,46 @@
             "discoveredTimestamp": 1736117709133,
             "caughtTimestamp": 1736117709133
           }
+        },
+        "gimmighoul": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736117801471,
+            "caughtTimestamp": 1736117801471
+          }
+        },
+        "teddiursa": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736118498033,
+            "caughtTimestamp": 1736118498033
+          }
+        },
+        "rhydon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736119034772,
+            "caughtTimestamp": 1736119034772
+          }
+        },
+        "shinx": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736119974379,
+            "caughtTimestamp": 1736119974379
+          }
+        },
+        "kangaskhan": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1736120348273,
+            "caughtTimestamp": 1736120348273
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -156,27 +196,28 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 8,
+    "totalCaptureCount": 14,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 7,
-    "totalBattleVictoryCount": 23,
+    "totalBattleVictoryCount": 34,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 17,
-    "totalPvNBattleVictoryCount": 6,
+    "totalPvWBattleVictoryCount": 27,
+    "totalPvNBattleVictoryCount": 7,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
-      "normal": 1,
-      "electric": 1,
-      "ghost": 1,
+      "normal": 3,
+      "electric": 2,
+      "ghost": 2,
       "poison": 1,
       "water": 1,
-      "rock": 1,
+      "rock": 3,
       "grass": 1,
       "fighting": 1,
       "fairy": 2,
       "steel": 1,
-      "psychic": 1
+      "psychic": 1,
+      "ground": 2
     },
     "totalDefeatedCounts": {
       "cobblemon:petilil": 1,
@@ -186,7 +227,10 @@
       "cobblemon:ponyta": 1,
       "cobblemon:paras": 1,
       "cobblemon:bellsprout": 1,
-      "cobblemon:mankey": 1
+      "cobblemon:mankey": 1,
+      "cobblemon:woobat": 1,
+      "cobblemon:gimmighoul": 3,
+      "cobblemon:whimsicott": 1
     },
     "aspectsCollected": {}
   }

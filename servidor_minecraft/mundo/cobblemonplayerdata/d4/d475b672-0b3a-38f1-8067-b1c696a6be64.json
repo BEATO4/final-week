@@ -333,6 +333,20 @@
             "status": "SEEN",
             "discoveredTimestamp": 1736117115077
           }
+        },
+        "charcadet": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1736120407710
+          }
+        },
+        "durant": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1736120565382
+          }
         }
       },
       "name": "cobbledex_discovery"
