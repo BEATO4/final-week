@@ -1354,3 +1354,25 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [06Jan2025 03:53:29.871] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [06Jan2025 03:53:29.871] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [06Jan2025 03:53:50.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Creative Mode]
+[06Jan2025 03:54:04.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Survival Mode]
+[06Jan2025 03:58:29.866] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jan2025 03:58:29.867] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jan2025 04:01:21.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElDiabloEnVida was blown up by Creeper
+[06Jan2025 04:01:21.442] [Server thread/INFO] [tombstone/]: The player ElDiabloEnVida has successfully been saved
+[06Jan2025 04:01:27.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Summoned new Sheep]
+[06Jan2025 04:02:05.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BEAT04 has made the advancement [The Parrots and the Bats]
+[06Jan2025 04:03:01.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Summoned new Sheep]
+[06Jan2025 04:03:05.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Summoned new Sheep]
+[06Jan2025 04:03:29.884] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jan2025 04:03:29.884] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jan2025 04:04:25.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElDiabloEnVida was slain by Zombie
+[06Jan2025 04:04:25.193] [Server thread/INFO] [tombstone/]: The player ElDiabloEnVida has successfully been saved
+[06Jan2025 04:04:27.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElDiabloEnVida lost connection: Disconnected
+[06Jan2025 04:04:27.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElDiabloEnVida left the game
+[06Jan2025 04:05:10.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 1 [Iron Hoe] to BEAT04]
+[06Jan2025 04:05:16.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BEAT04 has reached the goal [Plant Food]
+[06Jan2025 04:08:29.841] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jan2025 04:08:29.841] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jan2025 04:10:07.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BEAT04 has made the advancement [A Seedy Place]
+[06Jan2025 04:13:29.834] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jan2025 04:13:29.835] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.

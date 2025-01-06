@@ -532,6 +532,13 @@
         "status": "SEEN",
         "discoveredTimestamp": 1736134233391
       }
+    },
+    "klang": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1736136237734
+      }
     }
   }
 }
