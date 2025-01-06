@@ -347,6 +347,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1736120565382
           }
+        },
+        "venipede": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1736134233390
+          }
         }
       },
       "name": "cobbledex_discovery"

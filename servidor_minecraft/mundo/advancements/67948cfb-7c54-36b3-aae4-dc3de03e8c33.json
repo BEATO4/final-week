@@ -53,9 +53,19 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-01-06 03:34:42 +0000"
+    },
+    "done": false
+  },
   "cobblemon:obtain_all_berries": {
     "criteria": {
-      "obtain_cheri_berry": "2025-01-06 03:12:37 +0000"
+      "obtain_persim_berry": "2025-01-06 03:21:46 +0000",
+      "obtain_razz_berry": "2025-01-06 03:42:46 +0000",
+      "obtain_oran_berry": "2025-01-06 03:32:50 +0000",
+      "obtain_cheri_berry": "2025-01-06 03:12:37 +0000",
+      "obtain_wepear_berry": "2025-01-06 03:35:41 +0000"
     },
     "done": false
   },
@@ -77,6 +87,14 @@
     },
     "done": true
   },
+  "cobblemon:rainbow_apricorns": {
+    "criteria": {
+      "place_green": "2025-01-06 03:25:34 +0000",
+      "place_red": "2025-01-06 03:25:39 +0000",
+      "place_blue": "2025-01-06 03:25:32 +0000"
+    },
+    "done": false
+  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-01-06 03:05:32 +0000"
@@ -95,6 +113,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-06 03:34:34 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-06 03:05:32 +0000"
@@ -104,6 +128,25 @@
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2025-01-06 03:05:32 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_base_balls": {
+    "criteria": {
+      "poke_ball": "2025-01-06 03:30:02 +0000",
+      "azure_ball": "2025-01-06 03:26:26 +0000"
+    },
+    "done": false
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-01-06 03:49:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-06 03:49:33 +0000"
     },
     "done": true
   },
@@ -140,6 +183,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-06 03:05:32 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-01-06 03:25:45 +0000"
     },
     "done": true
   },
@@ -240,6 +289,22 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-01-06 03:34:34 +0000",
+      "minecraft:skeleton": "2025-01-06 03:40:31 +0000",
+      "minecraft:enderman": "2025-01-06 03:32:45 +0000",
+      "minecraft:zombie": "2025-01-06 03:26:01 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:craft_all_balls": {
+    "criteria": {
+      "azure_ball": "2025-01-06 03:26:26 +0000",
+      "poke_ball": "2025-01-06 03:30:02 +0000"
+    },
+    "done": false
+  },
   "cobblemon:harvest_apricorn_seed": {
     "criteria": {
       "check_inv": "2025-01-06 03:13:31 +0000"
@@ -276,11 +341,30 @@
     },
     "done": true
   },
+  "cobblemon:craft_poke_ball": {
+    "criteria": {
+      "requirement": "2025-01-06 03:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-06 03:26:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-01-06 03:51:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-01-06 03:06:17 +0000",
       "minecraft:beach": "2025-01-06 03:05:33 +0000",
       "minecraft:river": "2025-01-06 03:12:51 +0000",
+      "minecraft:forest": "2025-01-06 03:41:42 +0000",
       "minecraft:flower_forest": "2025-01-06 03:12:58 +0000",
       "minecraft:plains": "2025-01-06 03:14:09 +0000"
     },
@@ -316,8 +400,16 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-01-06 03:50:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-01-06 03:30:39 +0000",
+      "apple": "2025-01-06 03:40:46 +0000",
       "cooked_chicken": "2025-01-06 03:16:07 +0000"
     },
     "done": false
@@ -355,6 +447,12 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-01-06 03:05:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-06 03:34:34 +0000"
     },
     "done": true
   },

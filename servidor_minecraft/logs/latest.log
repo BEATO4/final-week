@@ -1204,3 +1204,153 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [06Jan2025 03:18:04.562] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [06Jan2025 03:18:04.562] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [06Jan2025 03:18:41.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy has made the advancement [The World of Cobblemon!]
+[06Jan2025 03:22:17.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 1 [Iron Ingot] to BEAT04]
+[06Jan2025 03:22:18.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 3 [Iron Ingot] to BEAT04]
+[06Jan2025 03:22:42.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[06Jan2025 03:23:03.524] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: c8bf699e-8b14-4eff-a398-7abecad93458
+[06Jan2025 03:23:03.530] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: c8bf699e-8b14-4eff-a398-7abecad93458
+[06Jan2025 03:23:08.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10971ms or 219 ticks behind
+[06Jan2025 03:23:21.935] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jan2025 03:23:21.937] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jan2025 03:23:30.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6942ms or 138 ticks behind
+[06Jan2025 03:23:47.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2492ms or 49 ticks behind
+[06Jan2025 03:24:55.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 40 [Bread] to BEAT04]
+[06Jan2025 03:25:18.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Creative Mode]
+[06Jan2025 03:25:20.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Spectator Mode]
+[06Jan2025 03:25:35.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KikoElCrazy lost connection: Timed out
+[06Jan2025 03:25:35.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy left the game
+[06Jan2025 03:25:40.148] [Server thread/INFO] [zeno410.betterforests.BetterForestsMod/]: 12204 
+[06Jan2025 03:25:40.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KikoElCrazy[/100.111.176.84:63200] logged in with entity id 6763 at (462.349316613062, 95.0, 50.69999998807907)
+[06Jan2025 03:25:40.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy joined the game
+[06Jan2025 03:25:40.273] [Server thread/INFO] [Jade/]: Syncing config to KikoElCrazy (2d023440-602c-388e-91bb-761096e48a95)
+[06Jan2025 03:25:48.737] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:lush_caves took 111 ms
+[06Jan2025 03:25:51.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Teleported BEAT04 to 706.500000, -17.000000, -200.500000]
+[06Jan2025 03:25:54.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Creative Mode]
+[06Jan2025 03:26:01.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElDiabloEnVida has made the advancement [Monster Hunter]
+[06Jan2025 03:26:17.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Spectator Mode]
+[06Jan2025 03:26:22.883] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/1467, l='ServerLevel[mundo]', x=453.50, y=95.06, z=54.49] died, message: 'Fletcher was slain by Zombie'
+[06Jan2025 03:26:26.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElDiabloEnVida has made the advancement [The First of Many]
+[06Jan2025 03:26:40.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Creative Mode]
+[06Jan2025 03:26:42.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Survival Mode]
+[06Jan2025 03:26:42.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/1463, l='ServerLevel[mundo]', x=458.51, y=95.00, z=57.49] died, message: 'Librarian was slain by Zombie'
+[06Jan2025 03:26:55.259] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KikoElCrazy lost connection: Disconnected
+[06Jan2025 03:26:55.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy left the game
+[06Jan2025 03:26:55.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BEAT04 has made the advancement [Herb your Enthusiasm]
+[06Jan2025 03:27:11.639] [Server thread/INFO] [zeno410.betterforests.BetterForestsMod/]: 13705 
+[06Jan2025 03:27:11.640] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KikoElCrazy[/100.111.176.84:63215] logged in with entity id 7531 at (462.349316613062, 95.0, 50.69999998807907)
+[06Jan2025 03:27:11.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy joined the game
+[06Jan2025 03:27:11.715] [Server thread/INFO] [Jade/]: Syncing config to KikoElCrazy (2d023440-602c-388e-91bb-761096e48a95)
+[06Jan2025 03:27:12.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Creative Mode]
+[06Jan2025 03:27:13.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Survival Mode]
+[06Jan2025 03:27:14.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Spectator Mode]
+[06Jan2025 03:27:25.265] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1465, l='ServerLevel[mundo]', x=455.50, y=95.06, z=54.49] died, message: 'Armorer was slain by Zombie'
+[06Jan2025 03:27:54.188] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/1461, l='ServerLevel[mundo]', x=458.51, y=95.06, z=59.50] died, message: 'Librarian was slain by Zombie'
+[06Jan2025 03:28:02.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KikoElCrazy lost connection: Disconnected
+[06Jan2025 03:28:02.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy left the game
+[06Jan2025 03:28:26.816] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jan2025 03:28:26.817] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jan2025 03:29:19.060] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:lush_caves took 139 ms
+[06Jan2025 03:29:23.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Teleported BEAT04 to 821.500000, 31.000000, 334.500000]
+[06Jan2025 03:29:29.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Survival Mode]
+[06Jan2025 03:29:37.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BEAT04 was slain by Crobat
+[06Jan2025 03:29:37.356] [Server thread/INFO] [tombstone/]: The player BEAT04 has successfully been saved
+[06Jan2025 03:29:51.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Creative Mode]
+[06Jan2025 03:29:54.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Teleported BEAT04 to 821.500000, 31.000000, 334.500000]
+[06Jan2025 03:29:57.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Spectator Mode]
+[06Jan2025 03:30:08.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Survival Mode]
+[06Jan2025 03:30:26.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Spectator Mode]
+[06Jan2025 03:30:29.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Survival Mode]
+[06Jan2025 03:30:37.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Spectator Mode]
+[06Jan2025 03:30:37.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3091ms or 61 ticks behind
+[06Jan2025 03:30:54.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Survival Mode]
+[06Jan2025 03:31:28.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Spectator Mode]
+[06Jan2025 03:31:33.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Survival Mode]
+[06Jan2025 03:32:59.488] [Server thread/INFO] [zeno410.betterforests.BetterForestsMod/]: 14723 
+[06Jan2025 03:32:59.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KikoElCrazy[/100.111.176.84:50233] logged in with entity id 10941 at (462.349316613062, 95.0, 50.69999998807907)
+[06Jan2025 03:32:59.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy joined the game
+[06Jan2025 03:32:59.568] [Server thread/INFO] [Jade/]: Syncing config to KikoElCrazy (2d023440-602c-388e-91bb-761096e48a95)
+[06Jan2025 03:33:05.770] [Worker-Main-9/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=176, y=-64, z=368}
+[06Jan2025 03:33:06.342] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=192, y=-64, z=384}
+[06Jan2025 03:33:06.433] [Worker-Main-10/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=192, y=-64, z=400}
+[06Jan2025 03:33:09.411] [Worker-Main-10/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=176, y=-64, z=384}
+[06Jan2025 03:33:09.672] [Worker-Main-9/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=160, y=-64, z=368}
+[06Jan2025 03:33:09.789] [Worker-Main-9/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=208, y=-64, z=416}
+[06Jan2025 03:33:09.847] [Worker-Main-4/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=224, y=-64, z=432}
+[06Jan2025 03:33:10.009] [Worker-Main-10/WARN] [com.structureessentials.StructureEssentials/]: Feature: ResourceKey[minecraft:worldgen/configured_feature / betterforests:better_forests] errored during placement at BlockPos{x=192, y=-64, z=416}
+[06Jan2025 03:33:29.910] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jan2025 03:33:29.910] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jan2025 03:34:11.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/1489, l='ServerLevel[mundo]', x=553.79, y=65.00, z=50.29] died, message: 'Librarian hit the ground too hard'
+[06Jan2025 03:34:32.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Creative Mode]
+[06Jan2025 03:34:34.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElDiabloEnVida has made the advancement [Knowledge of Death]
+[06Jan2025 03:34:34.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElDiabloEnVida has made the advancement [Ambush]
+[06Jan2025 03:34:35.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Survival Mode]
+[06Jan2025 03:34:52.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BEAT04 has made the advancement [Take Aim]
+[06Jan2025 03:35:28.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BEAT04 was slain by Darmanitan
+[06Jan2025 03:35:28.302] [Server thread/INFO] [tombstone/]: The player BEAT04 has successfully been saved
+[06Jan2025 03:35:31.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KikoElCrazy lost connection: Disconnected
+[06Jan2025 03:35:31.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy left the game
+[06Jan2025 03:35:36.436] [Server thread/INFO] [zeno410.betterforests.BetterForestsMod/]: 17767 
+[06Jan2025 03:35:36.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KikoElCrazy[/100.111.176.84:50341] logged in with entity id 12273 at (460.57460981849147, 95.0, 44.925113800814096)
+[06Jan2025 03:35:36.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy joined the game
+[06Jan2025 03:35:36.507] [Server thread/INFO] [Jade/]: Syncing config to KikoElCrazy (2d023440-602c-388e-91bb-761096e48a95)
+[06Jan2025 03:35:51.835] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal is no longer valid
+[06Jan2025 03:36:09.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy has made the advancement [Stone Age]
+[06Jan2025 03:36:41.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy has made the advancement [Very Berry]
+[06Jan2025 03:36:41.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy has made the advancement [Mother Nature's Bounty]
+[06Jan2025 03:36:48.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BEAT04 was slain by Gastly
+[06Jan2025 03:36:48.205] [Server thread/INFO] [tombstone/]: The player BEAT04 has successfully been saved
+[06Jan2025 03:37:19.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy has made the advancement [Getting an Upgrade]
+[06Jan2025 03:38:29.900] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jan2025 03:38:29.900] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jan2025 03:38:39.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 1 [Ghast Tear] to BEAT04]
+[06Jan2025 03:39:36.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KikoElCrazy lost connection: Timed out
+[06Jan2025 03:39:36.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy left the game
+[06Jan2025 03:39:41.198] [Server thread/INFO] [zeno410.betterforests.BetterForestsMod/]: 22576 
+[06Jan2025 03:39:41.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KikoElCrazy[/100.111.176.84:50424] logged in with entity id 13832 at (502.9565701270959, 71.0, 19.735603560608634)
+[06Jan2025 03:39:41.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy joined the game
+[06Jan2025 03:39:41.267] [Server thread/INFO] [Jade/]: Syncing config to KikoElCrazy (2d023440-602c-388e-91bb-761096e48a95)
+[06Jan2025 03:40:41.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KikoElCrazy lost connection: Disconnected
+[06Jan2025 03:40:41.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy left the game
+[06Jan2025 03:40:59.233] [Server thread/INFO] [zeno410.betterforests.BetterForestsMod/]: 23777 
+[06Jan2025 03:40:59.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KikoElCrazy[/100.111.176.84:50461] logged in with entity id 15219 at (502.9565701270959, 71.0, 19.735603560608634)
+[06Jan2025 03:40:59.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy joined the game
+[06Jan2025 03:40:59.305] [Server thread/INFO] [Jade/]: Syncing config to KikoElCrazy (2d023440-602c-388e-91bb-761096e48a95)
+[06Jan2025 03:41:00.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Creative Mode]
+[06Jan2025 03:41:24.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Survival Mode]
+[06Jan2025 03:41:27.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Creative Mode]
+[06Jan2025 03:41:31.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Survival Mode]
+[06Jan2025 03:41:38.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KikoElCrazy lost connection: Timed out
+[06Jan2025 03:41:38.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy left the game
+[06Jan2025 03:41:44.295] [Server thread/INFO] [zeno410.betterforests.BetterForestsMod/]: 24571 
+[06Jan2025 03:41:44.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KikoElCrazy[/100.111.176.84:50484] logged in with entity id 15632 at (502.9565701270959, 71.0, 19.735603560608634)
+[06Jan2025 03:41:44.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy joined the game
+[06Jan2025 03:41:44.344] [Server thread/INFO] [Jade/]: Syncing config to KikoElCrazy (2d023440-602c-388e-91bb-761096e48a95)
+[06Jan2025 03:42:43.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 4 [Iron Ingot] to BEAT04]
+[06Jan2025 03:43:29.909] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jan2025 03:43:29.910] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jan2025 03:44:41.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 5 [Iron Ingot] to BEAT04]
+[06Jan2025 03:44:50.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 2 [Copper Ingot] to BEAT04]
+[06Jan2025 03:44:57.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Gave 1 [Glass] to BEAT04]
+[06Jan2025 03:45:42.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KikoElCrazy lost connection: Timed out
+[06Jan2025 03:45:42.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy left the game
+[06Jan2025 03:45:50.299] [Server thread/INFO] [zeno410.betterforests.BetterForestsMod/]: 29328 
+[06Jan2025 03:45:50.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KikoElCrazy[/100.111.176.84:50582] logged in with entity id 17494 at (572.2368213705764, -9.0, 91.33097937035534)
+[06Jan2025 03:45:50.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy joined the game
+[06Jan2025 03:45:50.352] [Server thread/INFO] [Jade/]: Syncing config to KikoElCrazy (2d023440-602c-388e-91bb-761096e48a95)
+[06Jan2025 03:46:50.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KikoElCrazy lost connection: Timed out
+[06Jan2025 03:46:50.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy left the game
+[06Jan2025 03:46:55.485] [Server thread/INFO] [zeno410.betterforests.BetterForestsMod/]: 30530 
+[06Jan2025 03:46:55.485] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KikoElCrazy[/100.111.176.84:50604] logged in with entity id 17854 at (572.2368213705764, -9.0, 91.33097937035534)
+[06Jan2025 03:46:55.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy joined the game
+[06Jan2025 03:46:55.544] [Server thread/INFO] [Jade/]: Syncing config to KikoElCrazy (2d023440-602c-388e-91bb-761096e48a95)
+[06Jan2025 03:47:55.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KikoElCrazy lost connection: Timed out
+[06Jan2025 03:47:55.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KikoElCrazy left the game
+[06Jan2025 03:48:29.873] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jan2025 03:48:29.873] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jan2025 03:49:33.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElDiabloEnVida was slain by Articuno
+[06Jan2025 03:49:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElDiabloEnVida has made the advancement [Your First Grave]
+[06Jan2025 03:49:33.334] [Server thread/INFO] [tombstone/]: The player ElDiabloEnVida has successfully been saved
+[06Jan2025 03:50:05.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElDiabloEnVida has reached the goal [Here They Come]
+[06Jan2025 03:53:29.871] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jan2025 03:53:29.871] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jan2025 03:53:50.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BEAT04: Set own game mode to Creative Mode]

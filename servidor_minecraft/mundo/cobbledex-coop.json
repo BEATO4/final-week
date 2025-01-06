@@ -525,6 +525,13 @@
         "discoveredTimestamp": 1736133521440,
         "caughtTimestamp": 1736133521440
       }
+    },
+    "venipede": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1736134233391
+      }
     }
   }
 }
